@@ -21,7 +21,7 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
-	<context:component-scan base-package="ss.yg.ttrtr" />
+	<context:component-scan base-package="com.certificationace.external" />
 	
 	
 	
